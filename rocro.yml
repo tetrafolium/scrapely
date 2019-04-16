@@ -1,5 +1,5 @@
-docstand:
-  sphinx:
-    machine:
-      cpu: 4.0
-  
+inspecode:
+  experimental:
+    runtime:
+      python: 3.6
+  pylint: default
