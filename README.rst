@@ -9,6 +9,7 @@ Scrapely is a library for extracting structured data from HTML pages. Given
 some example web pages and the data to be extracted, scrapely constructs a
 parser for all similar pages.
 
+
 Installation
 ============
 
